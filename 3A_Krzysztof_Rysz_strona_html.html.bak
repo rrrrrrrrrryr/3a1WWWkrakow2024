@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>praca na ocene</title>
+	</head>
+	<body>
+		<h1>Krzysztof <i>Rysz</i></h1>
+		<h2>3a1 <u> klasa</u></h2>
+		<p>lubiem dużo ale też nie lubiem dużo. jestem niski. mam kolegów(jest to bardzo ciężkie)</p>
+			<ul>
+				<li>pływawnie</li>
+				<li>spanie</li>
+				<li>nie lubie wstawać</li>
+			</ul>
+			<img src="obrazki/pieczara.jfif" alt="obrazek pieczary" width = 30%><br><a href="https://youtu.be/dQw4w9WgXcQ?feature=shared">strona o różnych typach pieczar</a><br>
+				<table border=2>
+					<tr>
+						<th>poniedziałek</th>
+						<th>wtorek</th>
+						<th>środa</th>
+					</tr>
+					<tr>
+						<td>wf</td>
+						<td>wf</td>
+						<td>wf</td>
+					</tr>
+					<tr>
+						<td>wf</td>
+						<td>wf</td>
+						<td>wf</td>
+					</tr>
+				</table>
+			<p>C<sub>21</sub>H<sub>30</sub>O<sub>2</sub></p>
+			 l<sup>o</sup>l</p>
+	</body>
+	</html>
